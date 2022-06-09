@@ -59,7 +59,7 @@ const Signin = () => {
             </Title>
 
             <SubTitle>
-              Best diary app, concept by <strong>OLORUNDA SAMUEL</strong>{" "}
+              Best diary app, concept by <strong>CLINTON EKEGBU</strong>{" "}
             </SubTitle>
           </MainTitle>
 
