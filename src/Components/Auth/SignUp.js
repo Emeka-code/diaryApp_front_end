@@ -84,7 +84,7 @@ const SignUp = () => {
     setLoading(false);
     swal({
       title: `Welcome ${userName}`,
-      text: "You just Signeg Up Please proceed to Sign In",
+      text: "You just Signed Up Please proceed to Sign In",
       icon: "success",
       button: "Sign In Now",
     });

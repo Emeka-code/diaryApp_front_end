@@ -40,7 +40,7 @@ const Signin = () => {
     });
 
     swal({
-      title: `Signed In Sucessfully ✌️`,
+      title: `Sign In Sucessfully ✌️`,
       text: "You Can Now Start Creating Awesome Diaries",
       icon: "success",
       button: "Proceed",
